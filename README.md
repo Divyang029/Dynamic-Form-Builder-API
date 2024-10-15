@@ -17,7 +17,7 @@ This project is a **Dynamic Form Builder API** built using **Express.js** and **
 - **Mongoose** (for MongoDB)
 - **Postman** (API testing)
 
-## API Endpointsx
+## API Endpoints
 
 ### Create a New Form
 
