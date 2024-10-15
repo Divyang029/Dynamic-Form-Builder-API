@@ -40,6 +40,13 @@ This project is a **Dynamic Form Builder API** built using **Express.js** and **
 
 ![{ED5E53A8-C360-473F-A653-B3823361A990}](https://github.com/user-attachments/assets/a4406b76-d9e2-4c4c-ab6a-1dbeb944187f)
 
+### Submit Form (send response)
+
+- **POST** `/api/forms/submit`
+- This endpoint allows you send response to db
+
+
+
 
 
 
