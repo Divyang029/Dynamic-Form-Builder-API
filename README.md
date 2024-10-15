@@ -17,7 +17,7 @@ This project is a **Dynamic Form Builder API** built using **Express.js** and **
 - **Mongoose** (for MongoDB)
 - **Postman** (API testing)
 
-## API Endpoints
+## API Endpointsx
 
 ### Create a New Form
 
@@ -25,4 +25,21 @@ This project is a **Dynamic Form Builder API** built using **Express.js** and **
 - This endpoint allows you to create a new form.
 
 ![{163348FA-2FA3-45DA-B651-C969FF03BE6C}](https://github.com/user-attachments/assets/32ecc901-73c7-47f4-aa82-54c781d51ae0)
+
+### Find form by id
+
+- **POST** `/api/forms/:id`
+- This endpoint allows you to find form by id
+
+![{EC3E7D64-F484-453A-A3DE-6EC562EDBD3A}](https://github.com/user-attachments/assets/e8c7f8c8-72b4-403b-9e80-c6b62c577904)
+
+### Update Form
+
+- **POST** `/api/forms/update/:id`
+- This endpoint allows you to update form
+
+![{ED5E53A8-C360-473F-A653-B3823361A990}](https://github.com/user-attachments/assets/a4406b76-d9e2-4c4c-ab6a-1dbeb944187f)
+
+
+
 
